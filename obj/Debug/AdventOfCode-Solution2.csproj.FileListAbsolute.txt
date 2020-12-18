@@ -1,0 +1,14 @@
+C:\Users\goert\source\repos\AdventOfCode-Solution2\bin\Debug\AdventOfCode-Solution2.exe.config
+C:\Users\goert\source\repos\AdventOfCode-Solution2\bin\Debug\AdventOfCode-Solution2.exe
+C:\Users\goert\source\repos\AdventOfCode-Solution2\bin\Debug\AdventOfCode-Solution2.pdb
+C:\Users\goert\source\repos\AdventOfCode-Solution2\obj\Debug\AdventOfCode-Solution2.csprojAssemblyReference.cache
+C:\Users\goert\source\repos\AdventOfCode-Solution2\obj\Debug\AdventOfCode-Solution2.csproj.CoreCompileInputs.cache
+C:\Users\goert\source\repos\AdventOfCode-Solution2\obj\Debug\AdventOfCode-Solution2.exe
+C:\Users\goert\source\repos\AdventOfCode-Solution2\obj\Debug\AdventOfCode-Solution2.pdb
+C:\AdventOfCode-Solution2\bin\Debug\AdventOfCode-Solution2.exe.config
+C:\AdventOfCode-Solution2\bin\Debug\AdventOfCode-Solution2.exe
+C:\AdventOfCode-Solution2\bin\Debug\AdventOfCode-Solution2.pdb
+C:\AdventOfCode-Solution2\obj\Debug\AdventOfCode-Solution2.csprojAssemblyReference.cache
+C:\AdventOfCode-Solution2\obj\Debug\AdventOfCode-Solution2.csproj.CoreCompileInputs.cache
+C:\AdventOfCode-Solution2\obj\Debug\AdventOfCode-Solution2.exe
+C:\AdventOfCode-Solution2\obj\Debug\AdventOfCode-Solution2.pdb
