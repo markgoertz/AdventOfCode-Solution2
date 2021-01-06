@@ -1,0 +1,13 @@
+C:\AdventOfCode-Solution2\AOC2020-DAY8\obj\Debug\netcoreapp3.1\AOC2020-DAY8.csprojAssemblyReference.cache
+C:\AdventOfCode-Solution2\AOC2020-DAY8\obj\Debug\netcoreapp3.1\AOC2020-DAY8.AssemblyInfoInputs.cache
+C:\AdventOfCode-Solution2\AOC2020-DAY8\obj\Debug\netcoreapp3.1\AOC2020-DAY8.AssemblyInfo.cs
+C:\AdventOfCode-Solution2\AOC2020-DAY8\obj\Debug\netcoreapp3.1\AOC2020-DAY8.csproj.CoreCompileInputs.cache
+C:\AdventOfCode-Solution2\AOC2020-DAY8\bin\Debug\netcoreapp3.1\AOC2020-DAY8.exe
+C:\AdventOfCode-Solution2\AOC2020-DAY8\bin\Debug\netcoreapp3.1\AOC2020-DAY8.deps.json
+C:\AdventOfCode-Solution2\AOC2020-DAY8\bin\Debug\netcoreapp3.1\AOC2020-DAY8.runtimeconfig.json
+C:\AdventOfCode-Solution2\AOC2020-DAY8\bin\Debug\netcoreapp3.1\AOC2020-DAY8.runtimeconfig.dev.json
+C:\AdventOfCode-Solution2\AOC2020-DAY8\bin\Debug\netcoreapp3.1\AOC2020-DAY8.dll
+C:\AdventOfCode-Solution2\AOC2020-DAY8\bin\Debug\netcoreapp3.1\AOC2020-DAY8.pdb
+C:\AdventOfCode-Solution2\AOC2020-DAY8\obj\Debug\netcoreapp3.1\AOC2020-DAY8.dll
+C:\AdventOfCode-Solution2\AOC2020-DAY8\obj\Debug\netcoreapp3.1\AOC2020-DAY8.pdb
+C:\AdventOfCode-Solution2\AOC2020-DAY8\obj\Debug\netcoreapp3.1\AOC2020-DAY8.genruntimeconfig.cache
