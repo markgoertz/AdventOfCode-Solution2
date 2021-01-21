@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace AdventOfCode_Solution2
 {
-    public class Program
+    public class Program 
     {
         static readonly StreamReader sr = new StreamReader("C:\\AdventOfCode-Solution2\\Input Solution 2.txt");
 
